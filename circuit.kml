@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <name>circuit</name>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 1</name>
+         <Point>
+            <coordinates>2.4798,48.6139,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 2</name>
+         <Point>
+            <coordinates>2.47963333333333,48.6139666666667,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 3</name>
+         <Point>
+            <coordinates>2.4795,48.6140666666667,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 4</name>
+         <Point>
+            <coordinates>2.47926666666667,48.6140833333333,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 5</name>
+         <Point>
+            <coordinates>2.47896666666667,48.6140833333333,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 6</name>
+         <Point>
+            <coordinates>2.47823333333333,48.6140333333333,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 7</name>
+         <Point>
+            <coordinates>2.4778,48.6139666666667,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 8</name>
+         <Point>
+            <coordinates>2.4774,48.6138833333333,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 9</name>
+         <Point>
+            <coordinates>2.4772,48.61395,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 10</name>
+         <Point>
+            <coordinates>2.47705,48.61385,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 11</name>
+         <Point>
+            <coordinates>2.47638333333333,48.6134166666667,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 12</name>
+         <Point>
+            <coordinates>2.47603333333333,48.6132333333333,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 13</name>
+         <Point>
+            <coordinates>2.47565,48.6129666666667,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 14</name>
+         <Point>
+            <coordinates>2.47545,48.6127666666667,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 15</name>
+         <Point>
+            <coordinates>2.47536666666667,48.6126333333333,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 16</name>
+         <Point>
+            <coordinates>2.47525,48.6125333333333,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 17</name>
+         <Point>
+            <coordinates>2.4751,48.6123833333333,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 18</name>
+         <Point>
+            <coordinates>2.47483333333333,48.6122,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 19</name>
+         <Point>
+            <coordinates>2.47468333333333,48.6121,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 20</name>
+         <Point>
+            <coordinates>2.47441666666667,48.6119333333333,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 21</name>
+         <Point>
+            <coordinates>2.47428333333333,48.6118333333333,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 22</name>
+         <Point>
+            <coordinates>2.47438333333333,48.6117166666667,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 23</name>
+         <Point>
+            <coordinates>2.47451666666667,48.6116166666667,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 24</name>
+         <Point>
+            <coordinates>2.47465,48.6115,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 25</name>
+         <Point>
+            <coordinates>2.47478333333333,48.6114,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 26</name>
+         <Point>
+            <coordinates>2.47486666666667,48.6113333333333,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 27</name>
+         <Point>
+            <coordinates>2.475,48.6114,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 28</name>
+         <Point>
+            <coordinates>2.47511666666667,48.6114833333333,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 29</name>
+         <Point>
+            <coordinates>2.47535,48.6116,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 30</name>
+         <Point>
+            <coordinates>2.47556666666667,48.61175,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 31</name>
+         <Point>
+            <coordinates>2.47571666666667,48.6118333333333,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 32</name>
+         <Point>
+            <coordinates>2.47591666666667,48.61195,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 33</name>
+         <Point>
+            <coordinates>2.47613333333333,48.6120666666667,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 34</name>
+         <Point>
+            <coordinates>2.4763,48.6121833333333,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 35</name>
+         <Point>
+            <coordinates>2.47656666666667,48.6120166666667,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 36</name>
+         <Point>
+            <coordinates>2.47683333333333,48.6118333333333,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 37</name>
+         <Point>
+            <coordinates>2.4772,48.61155,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 38</name>
+         <Point>
+            <coordinates>2.47771666666667,48.6119,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 39</name>
+         <Point>
+            <coordinates>2.4783,48.6122,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 40</name>
+         <Point>
+            <coordinates>2.47898333333333,48.6124833333333,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 41</name>
+         <Point>
+            <coordinates>2.4797,48.6127166666667,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 42</name>
+         <Point>
+            <coordinates>2.47995,48.61285,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 43</name>
+         <Point>
+            <coordinates>2.48005,48.6132333333333,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 44</name>
+         <Point>
+            <coordinates>2.48015,48.61365,0</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <Snippet maxLines="0"> </Snippet>
+         <description> </description>
+         <name>Point 45</name>
+         <Point>
+            <coordinates>2.4802,48.6137833333333,0</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>
